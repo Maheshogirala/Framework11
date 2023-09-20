@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15297" started-at="2023-09-06T11:39:55Z" finished-at="2023-09-06T11:40:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15297" started-at="2023-09-06T11:39:55Z" finished-at="2023-09-06T11:40:10Z">
+      <class name="Testcases.testcaseset1">
+        <test-method status="PASS" signature="openapplication()[pri:0, instance:Testcases.testcaseset1@23fe1d71]" name="openapplication" is-config="true" duration-ms="8300" started-at="2023-09-06T11:39:55Z" finished-at="2023-09-06T11:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method status="PASS" signature="testsuit()[pri:1, instance:Testcases.testcaseset1@23fe1d71]" name="testsuit" duration-ms="3366" started-at="2023-09-06T11:40:03Z" finished-at="2023-09-06T11:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsuit -->
+        <test-method status="PASS" signature="searchhotel22()[pri:2, instance:Testcases.testcaseset1@23fe1d71]" name="searchhotel22" duration-ms="3593" started-at="2023-09-06T11:40:06Z" finished-at="2023-09-06T11:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchhotel22 -->
+      </class> <!-- Testcases.testcaseset1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
